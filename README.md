@@ -10,7 +10,7 @@ CONTROLS:
 
 PC: Press F3 To Toggle The Hoverboard On/Off.
 
-VR: RightControllerSecondaryButton / MetaQuest (A)
+VR: RightControllerPrimaryButton / MetaQuest (A)
 
 If You Do Not Want It To Be Toggleable In VR, Press F4 This Will Enable And Disable It From Working.
 
